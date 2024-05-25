@@ -1,1 +1,0 @@
-UniQuora is a community-driven platform where students can ask college-related questions and receive answers from their peers. The aim is to foster a supportive environment for students to share knowledge, find solutions to their academic and campus life problems.
